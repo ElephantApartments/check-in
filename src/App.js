@@ -86,12 +86,11 @@ const apartments = [
 { name: "Wasbeker Strasse 65 Mitte", url: "https://monteurwohnung-neumuenster.com/wasbeker-strasse-65-mitte/" },
 { name: "Wasbeker Strasse 65 Rechts", url: "https://monteurwohnung-neumuenster.com/wasbeker-strasse-65-rechts/" },
 { name: "Wasbeker Strasse 65 Wohnung 4", url: "https://monteurwohnung-neumuenster.com/wasbeker-strasse-65-wohnung-4/" },
-{ name: "Wilhelmstrasse 19 1Og R", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-1og-r/" },
-{ name: "Wilhelmstrasse 19 Dg", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-dg/" },
-{ name: "Wilhelmstrasse 19 Dg Rechts", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-dg-rechts/" },
-{ name: "Wilhelmstrasse 19 Eg L", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-eg-l/" },
-{ name: "Wilhelmstrasse 19 Eg R", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-eg-r/" },
-{ name: "Wilhelmstrasse 19 Eg Rechts", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-eg-rechts/" },
+{ name: "Wilhelmstrasse 19 Whg 3", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-1og-r/" },
+{ name: "Wilhelmstrasse 19 Whg 4", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-dg/" },
+{ name: "Wilhelmstrasse 19 Whg 5", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-dg-rechts/" },
+{ name: "Wilhelmstrasse 19 Whg 1", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-eg-l/" },
+{ name: "Wilhelmstrasse 19 Whg 2", url: "https://monteurwohnung-neumuenster.com/wilhelmstrasse-19-eg-r/" },,
 { name: "Wippendorfstrasse 1", url: "https://monteurwohnung-neumuenster.com/wippendorfstrasse-1/" }
 
 
