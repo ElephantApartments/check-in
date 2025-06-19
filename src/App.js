@@ -22,6 +22,7 @@ const apartments = [
   { name: "Frankenstrasse 13", url: "https://monteurwohnung-neumuenster.com/frankenstrasse-13/" },
   { name: "Friedrichstrasse 42 Whg 1", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-42-eg/" },
 { name: "Friedrichstrasse 42 Whg 2", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-42-og/" },
+{ name: "Friedrichstrasse 42 Whg 3", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-42-3/" },
 { name: "Friedrichstrasse 8 Whg 1", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-8-whg-1/" },
 { name: "Friedrichstrasse 8 Whg 2", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-8-whg-2/" },
 { name: "Friedrichstrasse 8 Whg 3", url: "https://monteurwohnung-neumuenster.com/friedrichstrasse-8-whg-3/" },
